@@ -2,7 +2,7 @@ f1=({"app1","app2","app3"})
 f2=([10,20,30,50])
 f3=(True,False)
 
-f4=f1|f2|f3
+f4=f1.union(f2.f3)
 print (f4)
 
 for x in f4:

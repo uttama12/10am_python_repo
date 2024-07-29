@@ -6,3 +6,5 @@ b4=bytearray(b2)
 
 print(b3)
 print(b4)
+b7=("hello","utf")
+print(b7.decode("utf"))
